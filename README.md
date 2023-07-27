@@ -5,7 +5,7 @@
 - 🔭 Doing my Ph.D. in Computer Science (@[FERI University of Maribor](https://feri.um.si/en/)), focusing on decentralization (blockchain, DLTs), P2P networks, digital identity (SSI), and artificial intelligence (decentralized artificial intelligence - DEAI, machine learning - ML, graph neural networks - GNNs).
 - 💬 Very happy to talk about Ethereum, blockchains, decentralization, self-sovereign identity (SSI), DIDs and VCs, cryptography, web3, metaverse, DAOs, NFTs, decentralized artificial intelligence (DEAI), AI and machine learning ... You get the idea, reach out to me. :sunglasses:
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/vid-kersic), [email](mailto:vid.kersic@yahoo.com), or [Twitter](https://twitter.com/vidkersic).
-- :hammer: Open-source projects I am currently working on: [Masca (MetaMask Snap)](https://github.com/blockchain-lab-um/masca) and [ERC-4337 Account Abstraction Bundler in Rust](https://github.com/Vid201/aa-bundler/) ... And on the lookout. :eyes:
+- :hammer: Open-source projects I am currently working on: [Masca (MetaMask Snap)](https://github.com/blockchain-lab-um/masca) and [Silius - ERC-4337 (Account Abstraction) bundler implementation in Rust](https://github.com/Vid201/silius/) ... And on the lookout. :eyes:
 - :clock1230: When I find some extra time: playing around with all things Ethereum (dApps, Solidity ...), running, tennis, sci-fi, travel.
 
 ---
