@@ -14,3 +14,11 @@
 ![Vid201's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vid201&show_icons=true&theme=tokyonight)
 
 ![Vid201's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Vid201&show_icons=true&theme=tokyonight)
+
+---
+
+### ☕️ Want to buy me a coffee?
+
+<a href="https://www.buymeacoffee.com/kersic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160px" /></a>
+
+kersic.eth - 0x7c0d681098a9d46bd34637870c3afa4bfc9ec720
